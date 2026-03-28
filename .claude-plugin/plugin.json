@@ -1,7 +1,10 @@
 {
   "name": "marketing-agents",
-  "description": "Executive Marketing Assistants (EMA) — 6 specialized marketing agents (CMA + 5 EMAs) built on marketing-skills for SEO, copywriting, CRO, growth, and strategy.",
+  "version": "1.0.0",
+  "description": "Executive Marketing Assistants (EMA) — CMA orchestrator + 5 specialist agents (SEO, Copywriter, CRO, Growth, Strategy) built on marketing-skills",
   "author": {
-    "name": "local"
-  }
+    "name": "mashhoorm99-pixel"
+  },
+  "repository": "https://github.com/mashhoorm99-pixel/marketing-agents",
+  "license": "MIT"
 }
