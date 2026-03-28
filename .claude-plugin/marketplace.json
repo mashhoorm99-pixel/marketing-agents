@@ -1,0 +1,27 @@
+{
+  "name": "mashhoorm99-pixel",
+  "owner": {
+    "name": "mashhoorm99-pixel"
+  },
+  "metadata": {
+    "description": "EMA — Executive Marketing Assistants plugin for Claude Code",
+    "version": "1.0.0",
+    "repository": "https://github.com/mashhoorm99-pixel/marketing-agents"
+  },
+  "plugins": [
+    {
+      "name": "marketing-agents",
+      "description": "Executive Marketing Assistants (EMA) — CMA orchestrator + 5 specialist agents (SEO, Copywriter, CRO, Growth, Strategy) built on marketing-skills",
+      "source": "./",
+      "strict": false,
+      "agents": [
+        "./agents/cma",
+        "./agents/seo",
+        "./agents/copywriter",
+        "./agents/cro",
+        "./agents/growth",
+        "./agents/strategy"
+      ]
+    }
+  ]
+}
